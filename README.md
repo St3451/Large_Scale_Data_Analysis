@@ -1,6 +1,6 @@
 # Large Scale Data Analysis
 
-This repository contains the assignments of LSDA course (course from Computer Science programme, Data Science track). 
+This repository contains the assignments of LSDA course (course from the fourth block of the Computer Science programme, Data Science track, at the University of Copenhagen). 
 
 ## Assigments
 
