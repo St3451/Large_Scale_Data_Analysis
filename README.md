@@ -10,8 +10,8 @@ This repository contains the assignments of LSDA course (course from the fourth 
 * [Code final model](https://github.com/St3451/Large_Scale_Data_Analysis/blob/master/assigmnent1/code/customtest_RMSE_model6.ipynb)
 
 ### 2. Convolutional neural network for traffic sign recognition
-* [Assignment questions](https://github.com/St3451/Introduction_to_Data_Science/blob/master/Assigment2/assignment2.pdf)
-* [Hand-in](https://github.com/St3451/Introduction_to_Data_Science/blob/master/Assigment2/stefano.pellegrini.pdf)
+* [Assignment questions](https://github.com/St3451/Large_Scale_Data_Analysis/blob/master/assigmnent2/assigment2_questions.pdf)
+* [Hand-in](https://github.com/St3451/Large_Scale_Data_Analysis/blob/master/assigmnent2/assigment2_handin.pdf)
 * [Code exercise 1](https://github.com/St3451/Large_Scale_Data_Analysis/blob/master/assigmnent2/code/HW2_exercise1.ipynb)
 * [Code exercise 2](https://github.com/St3451/Large_Scale_Data_Analysis/blob/master/assigmnent2/code/HW2_exercise2.ipynb)
 * [Code exercise 3](https://github.com/St3451/Large_Scale_Data_Analysis/blob/master/assigmnent2/code/HW2_exercise3.ipynb)
