@@ -2,7 +2,7 @@
 
 This repository contains the assignments of [LSDA](https://kurser.ku.dk/course/ndak15018u) course (course from the fourth block of the Computer Science programme, Data Science track, at the University of Copenhagen). 
 
-## Assigments
+## Assignments
 
 ### 1. Kaggle competition, time series forecasting (group assignment)
 * [Assignment questions](https://github.com/St3451/Large_Scale_Data_Analysis/blob/master/assigmnent1/assigment1_questions.pdf)
