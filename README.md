@@ -9,7 +9,7 @@ This repository contains the assignments of [LSDA](https://kurser.ku.dk/course/n
 * [Hand-in](https://github.com/St3451/Large_Scale_Data_Analysis/blob/master/assigmnent1/assigment1_handin.pdf)
 * [Code final model](https://github.com/St3451/Large_Scale_Data_Analysis/blob/master/assigmnent1/code/customtest_RMSE_model6.ipynb)
 
-### 2. Convolutional neural network for traffic sign recognition
+### 2. Convolutional Neural Network for traffic sign recognition
 * [Assignment questions](https://github.com/St3451/Large_Scale_Data_Analysis/blob/master/assigmnent2/assigment2_questions.pdf)
 * [Hand-in](https://github.com/St3451/Large_Scale_Data_Analysis/blob/master/assigmnent2/assigment2_handin.pdf)
 * [Code exercise 1](https://github.com/St3451/Large_Scale_Data_Analysis/blob/master/assigmnent2/code/HW2_exercise1.ipynb)
@@ -17,7 +17,7 @@ This repository contains the assignments of [LSDA](https://kurser.ku.dk/course/n
 * [Code exercise 3](https://github.com/St3451/Large_Scale_Data_Analysis/blob/master/assigmnent2/code/HW2_exercise3.ipynb)
 * [Code exercise 5](https://github.com/St3451/Large_Scale_Data_Analysis/blob/master/assigmnent2/code/HW2_exercise5.ipynb)
 
-### 3. Boosting algorithms, Recurrent Neural Networks 
+### 3. Boosting algorithms, LSTM Recurrent Neural Networks 
 * [Assignment questions](https://github.com/St3451/Large_Scale_Data_Analysis/blob/master/assigmnent3/assigment3_questions.pdf)
 * [Hand-in](https://github.com/St3451/Large_Scale_Data_Analysis/blob/master/assigmnent3/assigment3_handin.pdf)
 * [Code exercise 3](https://github.com/St3451/Large_Scale_Data_Analysis/blob/master/assigmnent3/code/HW3_Exercise3.ipynb)
